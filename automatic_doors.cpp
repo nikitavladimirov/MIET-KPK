@@ -1,3 +1,5 @@
+//Автоматические двери
+
 #include <Servo.h>
 
 Servo servo;
