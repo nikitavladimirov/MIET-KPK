@@ -1,4 +1,5 @@
 // Парковочный радар
+const int sonarPinSig = 13;
 
 const int sonarPinTrig = 5;
 const int sonarPinEcho = 4;
