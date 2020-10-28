@@ -1,4 +1,7 @@
 // Парковочный радар
+//
+// Сравнение с порогом разбито на 2 части для left и right УЗ дальномеров
+//
 const int sonarPinSig = 13;
 
 const int sonarPinTrig = 5;
