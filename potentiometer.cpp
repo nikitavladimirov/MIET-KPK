@@ -19,3 +19,4 @@ void loop() {
   Serial.println(voltage);
   lcd.setCursor(8, 0);
   lcd.print(voltage);
+}
